@@ -6,7 +6,7 @@ import plotly.express as px
 #-------------------------------------------------------------------------------------------
 
 def main_file():
-    zomato=pd.read_csv('C:/Users/BharathKrishna.S/OneDrive/Desktop/zomato/Image_file.csv')
+    zomato=pd.read_csv('Image_file.csv')
     return zomato
 
 
